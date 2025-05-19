@@ -32,7 +32,7 @@ Follow these steps to set up the project locally:
 
 4. **Download the finetuned model weights:**
    - The model weights are not included in this repository due to their size.
-   - Download the weights from [[insert link to Google Drive, Hugging Face, or other storage]](https://drive.google.com/drive/u/0/folders/1pWITwWu4r85WO62fcHn8DCsqo0OSFd3P).
+   - Download the weights from [HERE](https://drive.google.com/drive/u/0/folders/1pWITwWu4r85WO62fcHn8DCsqo0OSFd3P).
    - Place the weights in the `models/` directory or any favourite place.
 
 5. **Run migrations:**
