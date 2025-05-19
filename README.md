@@ -1,7 +1,7 @@
 # Django AI Project with Finetuned Model for Arabic Language on Self-Collected Data
-![project](1.jpg)
-![project](2.jpg)
-![project](3.jpg)
+![project](1.JPG)
+![project](2.JPG)
+![project](3.JPG)
 
 This is a Django project that integrates finetuned AI model for Arabic ASR using the Whisper Medium model on a dataset exceeding 60 hours, Whisper turbo model for the rest of Languages and NLLB model for translation. 
 
